@@ -9,8 +9,6 @@
 
 - 🌐 **[hales-jewett-explorer](https://github.com/ysmouhib/hales-jewett-explorer)** — An interactive 2D/3D companion to my MSc thesis: explore the grid [t]ⁿ, paint r-colourings, and watch the theory come alive — the four line families, the simplex reduction, the record-setting one-weight colourings (HJ(3,3) ≥ 22, HJ(4,2) ≥ 14), the forcing graphs of Chapter 7, and a live Rado-equation panel. Every certificate is re-verified in the browser and in Python. **[Live demo →](https://ysmouhib.github.io/hales-jewett-explorer/)**
 - 🔒 **[hj-certificates](https://github.com/ysmouhib/hj-certificates)** — SAT encoders and machine-checkable certificates for lower bounds on Hales–Jewett numbers (MSc thesis, ETH Zürich).
-- 💻 **[brigade](https://github.com/ysmouhib/brigade)** — A multi-agent LLM framework that formalizes and proves mathematical claims, strictly verified by the Lean 4 proof assistant, featuring a real-time web UI.
-- 💻 **[near-momentum-bot](https://github.com/ysmouhib/near-momentum-bot)** — A research-first crypto trading framework for NEAR/USDT on Binance, featuring a short-timeframe momentum strategy, cost-aware backtesting, and walk-forward validation.
 
 #### Find me
 
