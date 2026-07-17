@@ -1,5 +1,5 @@
 ﻿### Hi there, I'm Younes :sunglasses: :wave: :octopus:
-**MSc Mathematics, ETH Zürich** · Graph theory & combinatorics, quantitative modelling, optimisation, and verified computation · 2 arXiv preprints · Targeting quant, energy & research roles (Sept 2026).
+**MSc Mathematics, ETH Zürich** · Graph theory & combinatorics, quantitative modelling, optimization, and verified computation · 2 arXiv preprints · Targeting quant, energy & research roles (Sept 2026).
 
 📍 Zurich, Switzerland
 
