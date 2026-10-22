@@ -1,8 +1,8 @@
 ### Younes Mouhib
 
-**MSc Mathematics, ETH Zürich** — graph theory, combinatorics, optimization, probability, verified computation.Record lower bounds for Hales–Jewett numbers (HJ(3,3) ≥ 22, HJ(4,2) ≥ 14), sole-author preprint arXiv:2606.22155, every certificate machine-checkable.
+**MSc Mathematics, ETH Zürich** — graph theory, combinatorics, optimization, probability, verified computation. Record lower bounds for Hales–Jewett numbers (HJ(3,3) ≥ 22, HJ(4,2) ≥ 14), sole-author preprint arXiv:2606.22155, every certificate machine-checkable.
 
-Looking for a first industry role: quantitative research, optimization, research engineering — banking,fintech, analytics, operations research, risk, or junior Python/data positions. Open to relocate, immediately available.
+Looking for a first industry role: quantitative research, optimization, research engineering — banking, fintech, analytics, operations research, risk, or junior Python/data positions. Open to relocate, immediately available.
 
 ---
 
