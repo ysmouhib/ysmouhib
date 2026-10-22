@@ -8,7 +8,7 @@ Looking for a first industry role: quantitative research, optimization, research
 
 #### Selected work
 
-- ⚽ **[football-injury-risk](https://github.com/ysmouhib/injury-ml-research)** — Weekly injury-risk scores for every player in Europe's top five leagues, from public data only. Pre-registered, tested once on a season it had never seen: top-decile risk group injured 6× as often as the bottom decile. Logistic regression chosen over gradient boosting — on evidence, not fashion.
+- ⚽ **[football-injury-risk](https://github.com/ysmouhib/football-injury-risk)** — Weekly injury-risk scores for every player in Europe's top five leagues, from public data only. Pre-registered, tested once on a season it had never seen: top-decile risk group injured 6× as often as the bottom decile. Logistic regression chosen over gradient boosting — on evidence, not fashion.
 - 🔒 **[hj-certificates](https://github.com/ysmouhib/hj-certificates)** — SAT encoders and machine-checkable certificates for record Hales–Jewett lower bounds. Stdlib-only verifiers, DRAT-validated flagship refutation, CI on every push.
 - 📉 **[near-momentum-bot](https://github.com/ysmouhib/near-momentum-bot)** — Cost-aware backtesting and walk-forward validation for Binance spot. The honest answer included: when the edge doesn't survive fees, the report says so. **[Browser simulator →](https://ysmouhib.github.io/near-momentum-bot/simulator.html)**
 - 🤖 **[brigade](https://github.com/ysmouhib/brigade)** — Multi-agent LLM math prover: agents propose, only an independent Lean 4 + Mathlib verifier accepts. No proof, no merge.
