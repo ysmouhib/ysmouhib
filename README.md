@@ -1,12 +1,13 @@
 ### Younes Mouhib
+Mathematician (MSc ETH Zürich). Machine learning for the messy part,
+exact logic for the part that must be right, honest evaluation throughout.
 
-- 🧩 **[sudoku-vision](https://github.com/ysmouhib/sudoku-vision)** — Reads handwritten sudoku with a small CNN, solves with SAT, and repairs misread digits with MaxSAT: 75% → 99% of grids read perfectly.
-- 🤖 **[brigade](https://github.com/ysmouhib/brigade)** — Multi-agent LLM math prover: agents propose, only an independent Lean 4 + Mathlib verifier accepts. No proof, no merge. **[Project page →](https://ysmouhib.github.io/brigade/)**
-- 🔒 **[hj-certificates](https://github.com/ysmouhib/hj-certificates)** — SAT encoders and machine-checkable certificates for record Hales–Jewett lower bounds. Stdlib-only verifiers, DRAT-validated flagship refutation, CI on every push.
-- 🌐 **[hales-jewett-explorer](https://github.com/ysmouhib/hales-jewett-explorer)** — Interactive 2D/3D companion to the thesis: paint colourings of [t]ⁿ and watch the combinatorics update live; every counter re-verified in the browser. **[Live demo →](https://ysmouhib.github.io/hales-jewett-explorer/)**
+Open to roles in data science, optimization and applied AI.
 
-#### Find me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/younes-mouhib)
-- 📄 [arXiv](https://arxiv.org/search/math?searchtype=author&query=Mouhib,+Y)
-- 🌍 [ysmouhib.github.io](https://ysmouhib.github.io/)
+- ⚽ **[football-injury-risk]** — calibrated logistic regression from public data; on a fully
+  unseen season the top-10% risk group was injured 6x as often as the bottom 10%.
+- 🎯 **[sudoku-vision]** — CNN reads handwritten grids, SAT solves, MaxSAT repairs: 75% → 99% fully correct.
+- 📉 **[near-momentum-bot]** — cost-aware backtesting that documents honestly when an edge does not survive fees.
+- 🧩 **[common-ground]** — logic engine with Lean 4-checked proofs; 195/204 FOLIO agreement.
+- 🤖 **[brigade]** — multi-agent LLM prover: agents propose, Lean 4 disposes.
+- 🔒 **[hj-certificates]** — record Hales–Jewett bounds, re-verified in CI by standalone checkers.
